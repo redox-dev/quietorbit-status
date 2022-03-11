@@ -4,19 +4,19 @@
     "url": "https://file.quietorbit.de",
     "icon": "https://favicons.githubusercontent.com/file.quietorbit.de",
     "slug": "quiet-orbit-nextcloud",
-    "status": "down",
-    "uptime": "4.59%",
-    "uptimeDay": "4.59%",
-    "uptimeWeek": "4.59%",
-    "uptimeMonth": "4.59%",
-    "uptimeYear": "4.59%",
-    "time": 231,
-    "timeDay": 231,
-    "timeWeek": 231,
-    "timeMonth": 231,
-    "timeYear": 231,
+    "status": "up",
+    "uptime": "0.78%",
+    "uptimeDay": "0.78%",
+    "uptimeWeek": "0.78%",
+    "uptimeMonth": "0.78%",
+    "uptimeYear": "0.78%",
+    "time": 523,
+    "timeDay": 523,
+    "timeWeek": 523,
+    "timeMonth": 523,
+    "timeYear": 523,
     "dailyMinutesDown": {
-      "2022-03-11": 0
+      "2022-03-11": 11
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://git.quietorbit.de",
     "icon": "https://favicons.githubusercontent.com/git.quietorbit.de",
     "slug": "quiet-orbit-gitea",
-    "status": "down",
-    "uptime": "9.59%",
-    "uptimeDay": "9.59%",
-    "uptimeWeek": "9.59%",
-    "uptimeMonth": "9.59%",
-    "uptimeYear": "9.59%",
-    "time": 233,
-    "timeDay": 233,
-    "timeWeek": 233,
-    "timeMonth": 233,
-    "timeYear": 233,
+    "status": "up",
+    "uptime": "0.41%",
+    "uptimeDay": "0.41%",
+    "uptimeWeek": "0.41%",
+    "uptimeMonth": "0.41%",
+    "uptimeYear": "0.41%",
+    "time": 478,
+    "timeDay": 478,
+    "timeWeek": 478,
+    "timeMonth": 478,
+    "timeYear": 478,
     "dailyMinutesDown": {
-      "2022-03-11": 0
+      "2022-03-11": 11
     }
   }
 ]
