@@ -4,19 +4,19 @@
     "url": "https://file.quietorbit.de",
     "icon": "https://favicons.githubusercontent.com/file.quietorbit.de",
     "slug": "quiet-orbit-nextcloud",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 811,
-    "timeDay": 811,
-    "timeWeek": 903,
-    "timeMonth": 811,
-    "timeYear": 811,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "93.95%",
+    "uptimeWeek": "99.14%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.83%",
+    "time": 814,
+    "timeDay": 846,
+    "timeWeek": 905,
+    "timeMonth": 814,
+    "timeYear": 814,
     "dailyMinutesDown": {
-      "2022-04-15": 0
+      "2022-04-15": 87
     }
   },
   {
