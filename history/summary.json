@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/file.quietorbit.de",
     "slug": "quiet-orbit-nextcloud",
     "status": "up",
-    "uptime": "99.87%",
+    "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.80%",
-    "uptimeYear": "99.87%",
-    "time": 828,
-    "timeDay": 978,
-    "timeWeek": 845,
-    "timeMonth": 837,
-    "timeYear": 828,
+    "uptimeYear": "99.88%",
+    "time": 831,
+    "timeDay": 1016,
+    "timeWeek": 854,
+    "timeMonth": 843,
+    "timeYear": 831,
     "dailyMinutesDown": {
       "2022-04-15": 87
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 543,
-    "timeDay": 689,
-    "timeWeek": 527,
-    "timeMonth": 529,
-    "timeYear": 543,
+    "time": 549,
+    "timeDay": 813,
+    "timeWeek": 565,
+    "timeMonth": 537,
+    "timeYear": 549,
     "dailyMinutesDown": {}
   }
 ]
